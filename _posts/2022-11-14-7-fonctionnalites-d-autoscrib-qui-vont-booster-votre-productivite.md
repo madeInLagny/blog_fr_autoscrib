@@ -8,7 +8,6 @@ tags:
 header:
   teaser: "/assets/images/posts/2023/post1-hero.jpg"
 ---
-
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2023/post1-hero.jpg" alt="bulle conversationnelle abstraite" class="full">
 <figcaption style="color:grey; font-size:10px;">Photo de <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Volodymyr Hryshchenko</a> sur <a href="https://unsplash.com/fr/photos/V5vqWC9gyEU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
