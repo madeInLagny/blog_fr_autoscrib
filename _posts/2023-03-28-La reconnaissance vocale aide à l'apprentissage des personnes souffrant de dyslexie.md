@@ -1,5 +1,5 @@
 ---
-title: "Transcription orale automatique : qu’est-ce que c’est et comment ça marche ?"
+title: "La reconnaissance vocale aide à l'apprentissage des personnes souffrant de dyslexie"
 show_date: true
 excerpt: "La technologie de la transcription orale, aussi appelée reconnaissance vocale ou dictée assistée permet d’écrire des mots en les prononçant à haute voix.
 Elle est particulièrement utile aux personnes souffrant de dysgraphie ou de dyslexie, et d’autres troubles de l’apprentissage et de la pensée qui ont un impact sur l’écriture."
