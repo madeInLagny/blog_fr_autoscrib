@@ -7,8 +7,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/home_pic.jpg
-  caption: "Photo credit: [**Edar**](https://pixabay.com/users/edar-609103/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=968592)"
-excerpt: "Le site de référence sur la reconnaissance vocale et l'usage des outils de transcription."
+  caption: "Photo de <a href='https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Steve Johnson</a> sur <a href='https://unsplash.com/fr/s/photos/Bleu?orientation=landscape&utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
+excerpt: "Le blog de référence sur la reconnaissance vocale et les outils de transcription."
 ---
 
 {% include lastestPostRow %}

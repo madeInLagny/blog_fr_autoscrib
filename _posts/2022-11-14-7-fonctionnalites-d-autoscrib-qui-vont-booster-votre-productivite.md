@@ -6,7 +6,7 @@ tags:
   - dyslexie
   - dysgraphie
 header:
-  teaser: /assets/images/posts/2023/post1-hero.jpg
+  teaser: "/assets/images/posts/2023/post1-hero.jpg"
 ---
 
 <figure>
