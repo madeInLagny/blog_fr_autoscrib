@@ -1,4 +1,5 @@
 # User interface text and labels
+# Example of usage: site.data.ui-text[site.locale].follow_label
 
 # English (default)
 # -----------------
@@ -50,6 +51,7 @@ en: &DEFAULT_EN
   search_algolia_no_results  : "No results"
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
+  splash_excerpt             : ""
 en-US:
   <<: *DEFAULT_EN
 en-CA:

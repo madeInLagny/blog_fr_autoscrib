@@ -1,10 +1,12 @@
 ---
-title: "Transcription orale automatique : qu’est-ce que c’est et comment ça marche ?"
+title: "7 fonctionnalités d'autoScrib qui vont booster votre productivité"
 show_date: true
 excerpt_separator: "<!--more-->"
 tags:
   - dyslexie
   - dysgraphie
+header:
+  teaser: /assets/images/posts/2023/post1-hero.jpg
 ---
 
 <figure>
