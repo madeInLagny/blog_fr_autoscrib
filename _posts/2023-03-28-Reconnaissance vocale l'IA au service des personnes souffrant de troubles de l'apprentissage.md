@@ -1,7 +1,7 @@
 ---
-title: "La reconnaissance vocale aide à l'apprentissage des personnes souffrant de dyslexie"
+title: "Reconnaissance vocale: l'IA au service des personnes souffrant de troubles de l'apprentissage"
 show_date: true
-excerpt: "La technologie de la transcription orale, aussi appelée reconnaissance vocale ou dictée assistée permet d’écrire des mots en les prononçant à haute voix.
+excerpt: "La technologie de la transcription orale issue de l'intelligence artificielle (IA), aussi appelée reconnaissance vocale ou dictée assistée permet d’écrire des mots en les prononçant à haute voix. 
 Elle est particulièrement utile aux personnes souffrant de dysgraphie ou de dyslexie, et d’autres troubles de l’apprentissage et de la pensée qui ont un impact sur l’écriture."
 tags:
   - dyslexie
@@ -17,10 +17,8 @@ image_path: "/assets/images/posts/20230328-hero.jpg"
   </figcaption>
 </figure>
 
-_La technologie de la transcription orale, aussi appelée reconnaissance vocale ou dictée assistée permet d’écrire des mots en les prononçant à haute voix.
+_La technologie de la transcription orale issue de l'intelligence artificielle (IA), aussi appelée reconnaissance vocale ou dictée assistée permet d’écrire des mots en les prononçant à haute voix. 
 Elle est particulièrement utile aux personnes souffrant de dysgraphie ou de dyslexie, et d’autres troubles de l’apprentissage et de la pensée qui ont un impact sur l’écriture._
-
-<!--more-->
 
 ## Les principes de la transcription orale
 
