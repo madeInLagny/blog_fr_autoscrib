@@ -28,6 +28,12 @@ search: false
   justify-content: center;
 }
 
+.inline {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
 /* system typefaces */
 $serif: Georgia, Times, serif;
 $sans-serif: "Quicksand";

@@ -7,12 +7,12 @@ tags:
   - dyslexie
   - dysgraphie
 header:
-  teaser: "/assets/images/posts/20230328-hero.jpg"
-image_path: "/assets/images/posts/20230328-hero.jpg"
+  teaser: "/assets/images/posts/20230328-hero.webp"
+image_path: "/assets/images/posts/20230328-hero.webp"
 ---
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20230328-hero.jpg" alt="bulle conversationnelle abstraite" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/20230328-hero.webp" alt="bulle conversationnelle abstraite" class="full" loading="lazy">
 <figcaption style="color:grey; font-size:10px;">Photo de <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Volodymyr Hryshchenko</a> sur <a href="https://unsplash.com/fr/photos/V5vqWC9gyEU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   </figcaption>
 </figure>
