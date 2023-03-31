@@ -1,15 +1,10 @@
 main:
-  - title: "Articles"
+  - title: "Tous les articles"
     url: /list/
-  - title: "Tags"
-    url: /tags/
-  - title: "autoScrib"
-    url: https://autoscrib.com
-
 side:
-  - title: "Articles"
+  - title: "Tous les articles"
     url: /list/
-  - title: "Tags"
+  - title: "Articles par mots-clés"
     url: /tags/
   - title: "Retour vers autoScrib"
     url: https://autoscrib.com
