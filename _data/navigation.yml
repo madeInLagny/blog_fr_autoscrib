@@ -5,3 +5,11 @@ main:
     url: /tags/
   - title: "autoScrib"
     url: https://autoscrib.com
+
+side:
+  - title: "Articles"
+    url: /list/
+  - title: "Tags"
+    url: /tags/
+  - title: "Retour vers autoScrib"
+    url: https://autoscrib.com

@@ -16,7 +16,7 @@
 title: autoScrib Blog
 email: contact@autoscrib.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Everything you ever wonder about voice recognition, speech-to-text and dictation technology. Find out what it is and who it can help day-to-day activities.
+  Blog sur la reconnaissance vocale et l'intelligence artificielle (IA). Comment les utilise pour améliorer sa productivité.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -32,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:title/
 paginate: 5 # amount of posts to show
-paginate_path: /blogList/page:num/
+paginate_path: /_pages/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
