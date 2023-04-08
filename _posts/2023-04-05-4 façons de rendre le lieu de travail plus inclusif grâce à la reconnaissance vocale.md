@@ -16,7 +16,7 @@ image_path: "/assets/images/posts/20230405-hero.jpg"
   </figcaption>
 </figure>
 
-_Une solution de reconnaissance vocale peut être un outil précieux pour créer des environnements de travail plus inclusifs, en particulier pour les personnes sourdes ou malentendantes, ou qui ont des difficultés à parler ou à comprendre la parole. En transcrivant des mots parlés en texte écrit en temps réel, la transcription permet à ces personnes de participer pleinement aux réunions, conférences et autres événements professionels._
+_Une solution de reconnaissance vocale peut être un outil précieux pour créer des environnements de travail plus inclusifs, en particulier pour les personnes sourdes ou malentendantes, ou qui ont des difficultés à parler ou à comprendre la parole. En transcrivant des mots parlés en texte écrit en temps réel, la transcription permet à ces personnes de participer pleinement aux réunions, conférences et autres événements professionnels._
 ## Amélioration de la communication
 La technologie de transcription permet aux personnes sourdes ou malentendantes de participer pleinement aux conversations et aux réunions en leur fournissant des transcriptions écrites des paroles prononcées. Cela peut aider à s'assurer que tout le monde est capable de communiquer efficacement et d'être inclus dans la conversation.
 ## Accessibilité accrue
