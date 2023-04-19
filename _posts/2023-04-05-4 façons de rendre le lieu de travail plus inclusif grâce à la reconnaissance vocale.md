@@ -1,6 +1,7 @@
 ---
 title: "4 façons de rendre le lieu de travail plus inclusif grâce à la reconnaissance vocale."
 show_date: true
+last_modified_at: 2023-04-05
 excerpt: "Une solution de reconnaissance vocale peut être un outil précieux pour créer des environnements de travail plus inclusifs, en particulier pour les personnes sourdes ou malentendantes, ou qui ont des difficultés à parler ou à comprendre la parole."
 tags:
   - Inclusion

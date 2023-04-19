@@ -1,6 +1,7 @@
 ---
 title: "Reconnaissance vocale: l'IA au service des personnes souffrant de troubles de l'apprentissage"
 show_date: true
+last_modified_at: 2023-03-28
 excerpt: "La technologie de la transcription orale issue de l'intelligence artificielle (IA), aussi appelée reconnaissance vocale ou dictée assistée permet d’écrire des mots en les prononçant à haute voix. 
 Elle est particulièrement utile aux personnes souffrant de dysgraphie ou de dyslexie, et d’autres troubles de l’apprentissage et de la pensée qui ont un impact sur l’écriture."
 tags:

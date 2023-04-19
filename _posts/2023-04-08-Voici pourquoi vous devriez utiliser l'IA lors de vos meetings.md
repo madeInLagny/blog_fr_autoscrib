@@ -1,6 +1,7 @@
 ---
 title: "Voici pourquoi vous devriez utiliser l'IA lors de vos meetings."
 show_date: true
+last_modified_at: 2023-04-08
 excerpt: "2023 a déjà vu beaucoup de nouvelles innovations en matière d'IA. Il est plus clair que jamais que l'adoption de nouveaux outils de réunion IA peut améliorer la collaboration et la productivité au sein de votre organisation."
 tags:
   - Productivité

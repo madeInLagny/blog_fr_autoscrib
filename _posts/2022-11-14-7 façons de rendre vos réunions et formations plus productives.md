@@ -1,6 +1,7 @@
 ---
 title: "7 façons de rendre vos réunions et formations plus productives"
 show_date: true
+last_modified_at: 2022-11-14
 excerpt: "La technologie de reconnaissance vocale développée par autoScrib vous aide à augmenter votre productivité pendant vos réunions, formations en présentiel ou en ligne, ou encore vos cours ou TD. Elle permet une prise de note complète et instantanée."
 tags:
   - productivité
