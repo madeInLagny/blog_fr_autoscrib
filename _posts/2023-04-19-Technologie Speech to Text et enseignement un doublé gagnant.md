@@ -36,6 +36,7 @@ La compétence initiale requise des étudiants n'était pas l'orthographe ou la 
 "Ces aménagements profiteront aux enfants non identifiés (en situation de handicap) et qui aimeraient apprendre de cette façon", a déclaré Conway. "Donc, si vous le mettez à la disposition de tout le monde, ce n'est stigmatisant pour personne. Et les étudiants vont choisir eux-mêmes ce qui fonctionnera pour eux. Ils se connaissent aussi, surtout en vieillissant.
 
 ## Écrire c'est réécrire
+
 Nahal a finalement fait passer ses élèves de la parole au texte, les encourageant à écrire phonétiquement dans une phase ultérieure, mais avec la même indifférence initiale à l'orthographe et à la grammaire encouragée par une première ébauche de la parole au texte. Ensuite, une fois les idées sur la page, Nahal et ses étudiants ont pu passer au peigne fin leur travail, mettre à jour l'orthographe et modifier leur langage pour répondre aux conventions académiques.
 
 "Grâce au processus de correction de leur travail et de leur dactylographie, ils sont devenus de meilleurs écrivains", a-t-il déclaré.
@@ -45,6 +46,7 @@ Il a mis en lumière la vérification orthographique comme un moyen simple pour 
 « Ces gains ne se seraient pas produits si nous avions été en personne. Je veux dire, cela se serait produit, mais pas si rapidement à mon avis », a déclaré Nahal.
 
 ## Pratique vocale
+
 Conway a mis en lumière la technologie de synthèse vocale comme libératrice pour les enfants ayant des troubles de l'écriture et des besoins en motricité fine. Au-delà de la rédaction de devoirs, la technologie peut également être utilisée pour des réponses rapides en classe. Si un enseignant demande à tous les élèves de mettre une réponse dans la boîte de discussion de la classe virtuelle, par exemple, un élève qui pourrait ne pas se sentir confiant dans sa capacité à écrire ses pensées peut utiliser un logiciel de transcription pour continuer à participer. Et pour les boîtes de discussion avec transcription du microphone activée, ils peuvent participer encore plus rapidement.
 
 "Cela donne aux élèves l'indépendance, au lieu de devoir avoir un scribe tout le temps ou d'avoir quelqu'un qui leur lit tout le temps", a déclaré Kathleen Kane Parkinson, une enseignante apprenante diversifiée à Chicago.
@@ -54,6 +56,7 @@ Dans le passé, de nombreux étudiants ne pouvaient pratiquer leur prononciation
 Parkinson a mentionné, cependant, que la technologie n'est pas encore entièrement adaptée aux étudiants ayant des troubles de la parole et du langage. La transcription de leur discours peut ne pas refléter fidèlement ce que les élèves ont dit dans leurs microphones, ce qui peut être source de confusion et de frustration.
 
 ## Lecture répétée à voix haute
+
 La technologie connexe mais inverse de la synthèse vocale, également connue sous le nom de technologie de lecture à haute voix, a aidé les élèves de Nahal à améliorer leurs compétences en lecture. Le processus d'écoute du texte lu à haute voix garantissait que des mots ou des lignes n'étaient pas sautés, améliorant ainsi la compréhension. Les élèves pourraient également surligner de nouveaux mots pour entendre les prononciations ou apprendre des définitions, renforçant ainsi les vocabulaires.
 
 Pour les élèves qui ne se sentent peut-être pas à l'aise pour lire des documents de niveau scolaire ou qui traitent mieux les informations lors de l'écoute, les fonctionnalités de lecture en parallèle des livres et des articles peuvent être essentielles. Les élèves ayant des déficits d'attention pourraient bénéficier de la possibilité de mettre en pause une histoire pour traiter ou prendre des notes, puis d'appuyer sur lecture pour reprendre la lecture sans perdre leur place.
@@ -65,6 +68,7 @@ Jodi Dezale, orthophoniste à la Jefferson Community School de Minneapolis, a in
 "L'un des outils que nous utilisons pour construire la compréhension est la lecture répétée de la même chose. Donc, se familiariser avec quelque chose de différentes manières et l'utiliser plusieurs fois a été très utile », a déclaré Dezale.
 
 ## Possibilités d'accessibilité
+
 L'engagement avec les modes d'apprentissage audibles et visuels peut également être obtenu grâce au sous-titrage codé dans le logiciel vidéo de classe. Offert à la fois sur Google Meet et Zoom, le sous-titrage codé peut présenter des avantages pour tous les étudiants. Cela peut rendre les salles de classe virtuelles qui n'ont pas de traducteurs en langue des signes plus accessibles aux élèves sourds et malentendants. Les étudiants malentendants peuvent également utiliser les sous-titres comme repère secondaire pour leur esprit, permettant une autre façon de percevoir le matériel.
 
 "Vous associez une entrée verbale à une entrée visuelle et il est juste plus probable qu'elle reste dans votre cerveau et ait un sens pour vous", a déclaré Conway.
@@ -99,6 +103,7 @@ Les outils et technologies spécifiques qu'une école peut adopter pendant l'éd
 
 "Je pense que le plus gros avantage de cette expérience en ligne est simplement qu'il y a des choses gratuites que nous pouvons utiliser", a déclaré Conway. "Le ciel est la limite et vous avez juste besoin de chercher sur Google ce que vous voulez."
 
-## Comment tester la technologie Speech-to-Text.
+## Comment tester la technologie Speech-to-Text
+
 [autoScrib](https://autoscrib.com/) est une solution de transcription simple et efficace. Elle transcrit fidèlement la parole et fonctionne sur un ordinateur ou un smartphone. Contrairement à d’autres produits, [autoScrib](https://autoscrib.com/) permet de sauvegarder tous les textes transcrits dans un même répertoire et d’y accéder à partir de n’importe quel appareil.  
 Testez gratuitement la technologie de transcription orale sur [autoscrib.com](https://autoscrib.com/)
