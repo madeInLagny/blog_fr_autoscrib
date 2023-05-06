@@ -1,7 +1,7 @@
 ---
 title: "7 raisons d'utiliser la reconnaissance vocale dans l'éducation."
 show_date: true
-last_modified_at: 2023-04-27
+last_modified_at: 2023-05-06
 excerpt: "Popularisée par des applications d'assistant personnel comme Siri ou Alexa, la technologie vocale devient moins chère et plus rapide et offre des possibilités d'utilisation dans des domaines et des industries de plus en plus nombreuses.
 Voici 7 des cas d'utilisation les plus courants dans l'apprentissage et l'éducation"
 tags:
